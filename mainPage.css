@@ -14,3 +14,7 @@ body {
 	margin: 4px 0px;
 	cursor: pointer;
 }
+
+h2 {
+	background-color: #4CAF50;
+}
