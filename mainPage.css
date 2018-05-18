@@ -4,9 +4,9 @@ body {
 }
 
 .button {
-	background-color: #4CAF50;
+	background-color: #705A4A;
 	border: none;
-	color: white;
+	color: #EFD7CA;
 	padding: 15px 32px;
 	text-align: center;
 	text-decoration: none;
@@ -17,5 +17,5 @@ body {
 }
 
 h2 {
-	background-color: #4CAF50;
+	background-color: #705A4A;
 }
