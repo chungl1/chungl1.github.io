@@ -18,7 +18,7 @@ body {
 }
 
 h1 {
-	font: italic bold 20px/40px Georgia,serif;
+	font: italic bold 40px/80px Georgia,serif;
 }
 
 h2 {
@@ -26,6 +26,6 @@ h2 {
 }
 
 h3 {
-	font: 50px arial, sans-serif;
+	font: 35px arial, sans-serif;
 }
 
