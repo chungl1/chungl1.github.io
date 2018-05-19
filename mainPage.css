@@ -1,10 +1,10 @@
 body {
-	background-color: #525B43;
+	background-color: #037367;
 	color: #FFFFFF;
 }
 
 .button {
-	background-color: #705A4A;
+	background-color: #BEA42E;
 	border: none;
 	color: white;
 	padding: 15px 32px;
@@ -17,5 +17,5 @@ body {
 }
 
 h2 {
-	background-color: #705A4A;
+	background-color: #BEA42E;
 }
