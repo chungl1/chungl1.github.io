@@ -4,7 +4,7 @@ body {
 }
 
 .button {
-	background-color: #BEA42E;
+	background-color: #000000;
 	border: none;
 	color: white;
 	padding: 15px 32px;
@@ -17,5 +17,5 @@ body {
 }
 
 h2 {
-	background-color: #BEA42E;
+	background-color: #000000;
 }
