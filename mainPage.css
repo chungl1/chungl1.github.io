@@ -1,6 +1,7 @@
 body {
 	color: #800000;
 	background-color: #ffffcc;
+
 }
 
 .button {
@@ -16,8 +17,15 @@ body {
 	cursor: pointer;
 }
 
+h1 {
+	font: 30px italic bold 20px/40px Georgia,serif;
+}
+
 h2 {
 	background-color: #800000;
 }
 
+h3 {
+	font: 20px arial, sans-serif;
+}
 
