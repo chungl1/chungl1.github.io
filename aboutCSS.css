@@ -45,5 +45,27 @@ h3 {
 	font: 25px arial, sans-serif;
 }
 
+.left {
+	left: 0;
+}
+
+.right{
+	right: 0;
+}
+
+.split {
+	height: 100%;
+	width: 50%;
+	z-index: 1;
+	top: 150px;
+	overflow-x: hidden;
+	padding-top: 20px;
+	position: fixed;
+}
+
+.body-font {
+	font-size: 20px;
+	color: black
+}
 
 
