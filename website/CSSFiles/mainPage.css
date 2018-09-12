@@ -1,0 +1,38 @@
+body {
+	color: #800000;
+	background-color: #ffffcc;
+
+}
+
+.button {
+	background-color: #800000;
+	border: none;
+	color: #ffffcc;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 15px;
+	cursor: pointer;
+}
+
+.middle {
+	
+}
+
+h1 {
+	font: italic bold 40px/40px Georgia, serif;
+}
+
+h2 {
+	background-color: #800000;
+	text-align: center;
+}
+
+h3 {
+	font: 25px arial, sans-serif;
+}
+
+
+
