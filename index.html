@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<title>Lawrence's site</title>
-		<link href="mainPage.css" rel="stylesheet" type="text/css">
+		<link href="CSSFiles/mainPage.css" rel="stylesheet" type="text/css">
 	</head>
 
 	<body>
@@ -22,13 +22,19 @@
 			<input type="checkbox" name="consent" id="check">I agree that criticism will be constructive<br><br>
 		</form>
 		<div align="center">
-			<button onclick="open()" class="button">Leave A Suggestion</button>
+			<button onclick="openOne()" class="button">Leave A Suggestion</button>
 		</div>
 		<script>
-			function open() {
-				window.open("http://www.facebook.com", "_blank", "toolbar=yes, top=500, left=500, width=400, height=400");
+			function openOne() {
+				var checked = document.getElementById("check").checked;
+				if(checked == true){
+					window.open("http://www.facebook.com", "_blank", "toolbar=yes, top=500, left=500, width=400, height=400");
+				}
+				
+				
 			}
 		</script>
+		
 	</body>
 
 </html>
