@@ -17,6 +17,8 @@ body {
 	cursor: pointer;
 }
 
+.button:hover {background-color: #380000}
+
 .leave-Suggestion {
 	cursor: pointer;
 	font-size: 15px;

@@ -17,9 +17,7 @@ body {
 	cursor: pointer;
 }
 
-.middle {
-	
-}
+.button:hover {background-color: #380000}
 
 h1 {
 	font: italic bold 40px/40px Georgia, serif;
